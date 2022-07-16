@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * Table implementation of {@link Product}.
  */
-public class Table implements Product {
+class Table implements Product {
 
   private final BigDecimal price;
 

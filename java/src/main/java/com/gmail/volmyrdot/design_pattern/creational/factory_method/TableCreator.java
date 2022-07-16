@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * Implementation of {@link Creator} for creating a {@link Table}.
  */
-public final class TableCreator implements Creator {
+final class TableCreator implements Creator {
 
   @Override
   public Product createProduct(BigDecimal price) {

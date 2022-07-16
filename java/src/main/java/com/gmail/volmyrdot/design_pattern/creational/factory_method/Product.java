@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * Basic interface for all products.
  */
-public interface Product {
+interface Product {
 
   /**
    * Returns the name of the product.

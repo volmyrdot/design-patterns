@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * Computer implementation of {@link Product}.
  */
-public final class Computer implements Product {
+final class Computer implements Product {
 
   private final BigDecimal price;
 

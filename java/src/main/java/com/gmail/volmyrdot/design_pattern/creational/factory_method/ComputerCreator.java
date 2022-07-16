@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * Implementation of {@link Creator} for creating a {@link Computer}.
  */
-public final class ComputerCreator implements Creator {
+final class ComputerCreator implements Creator {
 
   @Override
   public Product createProduct(BigDecimal price) {

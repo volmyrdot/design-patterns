@@ -1,2 +1,1 @@
-# design-patterns
-DESIGN PATTERNS
+see [DESIGN PATTERNS](https://refactoring.guru/design-patterns)
